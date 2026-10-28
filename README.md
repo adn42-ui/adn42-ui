@@ -1,4 +1,4 @@
-## Hi, I'm adn42 👋
+## Hi, I'm Akachidike David Nweze
 
 I work on data analytics and data engineering projects, mostly sports and finance. I like questions with a real answer in the data: build the pipeline, test it, and report what the numbers actually say.
 
