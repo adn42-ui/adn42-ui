@@ -1,4 +1,4 @@
-## Hi, I'm Akachidike David Nweze
+## Hi, I'm adn42 👋
 
 I work on data analytics and data engineering projects, mostly sports and finance. I like questions with a real answer in the data: build the pipeline, test it, and report what the numbers actually say.
 
@@ -13,11 +13,12 @@ I work on data analytics and data engineering projects, mostly sports and financ
 
 | Project | What it does | Built with |
 |---|---|---|
+| [**prediction-market-trading-bot**](https://github.com/adn42-ui/prediction-market-trading-bot) | Trading bot for the 2026 SIG Predictions Cup: simulates the midterms 200,000 times, blends with Kalshi prices, and trades mispriced contracts with half-Kelly sizing. | Python · NumPy · REST APIs |
 | [**stock-price-prediction**](https://github.com/adn42-ui/stock-price-prediction) | Predicts stock trends with a Random Forest on technical indicators, with a backtest. | scikit-learn · pandas · yfinance |
 | [**moving-average-crossover**](https://github.com/adn42-ui/moving-average-crossover) | A moving average crossover strategy with buy and sell signals. | pandas · matplotlib · yfinance |
 
 ### 🛠️ Tools
 
 **Languages:** Python, SQL
-**Data:** pandas, DuckDB, dbt, scikit-learn
+**Data:** pandas, NumPy, DuckDB, dbt, scikit-learn
 **Visualization:** Tableau, matplotlib, seaborn
