@@ -23,6 +23,10 @@ I work on data analytics and data engineering projects, mostly sports and financ
 | [**stock-price-prediction**](https://github.com/adn42-ui/stock-price-prediction) | Predicts stock trends with a Random Forest on technical indicators, with a backtest. | scikit-learn · pandas · yfinance |
 | [**moving-average-crossover**](https://github.com/adn42-ui/moving-average-crossover) | A moving average crossover strategy with buy and sell signals. | pandas · matplotlib · yfinance |
 
+### Resume
+
+[Download my resume (PDF)](Resume_Akachidike_David_Nweze.pdf)
+
 ### 🛠️ Tools
 
 **Languages:** Python, SQL
