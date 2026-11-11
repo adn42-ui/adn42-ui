@@ -9,6 +9,12 @@ I work on data analytics and data engineering projects, mostly sports and financ
 | [**nba-rest-analytics-pipeline**](https://github.com/adn42-ui/nba-rest-analytics-pipeline) | Does rest win NBA games? A 2+ day rest edge wins 57% of the time; a back-to-back costs about half of home-court advantage. | DuckDB · dbt · SQL · Tableau · Python |
 | [**nba-load-management-analysis**](https://github.com/adn42-ui/nba-load-management-analysis) | Did the NBA's Player Participation Policy make stars play more? Difference-in-differences on 160K player-games. | Python · pandas · statsmodels |
 
+### Causal inference
+
+| Project | What it answers | Built with |
+|---|---|---|
+| [**email-uplift-modeling**](https://github.com/adn42-ui/email-uplift-modeling) | Who should get the email? Uplift models on a 64K-customer randomized experiment, checked with cross-fitting. Targeting does not beat emailing everyone for the women's email. | Uplift models · causal forest · cross-fitting |
+
 ###  Quantitative finance
 
 | Project | What it does | Built with |
